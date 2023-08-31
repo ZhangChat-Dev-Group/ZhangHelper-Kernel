@@ -1,0 +1,10 @@
+{
+    "auth": {
+        "server": "聊天室的WebSocket地址",
+        "nick": "ZhangHelper365",
+        "password": "机器人的密码",
+        "channel": "频道"
+    },
+    "admin": "超级管理员识别码",
+    "ops": [],
+}
