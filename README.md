@@ -1,5 +1,7 @@
-# ZhangHelper365  
-欢迎使用 ZhangHelper365，这是ZhangHelper的最新版本  
+# ZhangHelper365 Kernel  
+这是从 ZhangHelper365 中分离出来的内核  
+并且加上了最基本的命令  
+也可以被称作 ZhangHelper365内核版
 
 # 如何使用  
 1. 准备好 Node.js 环境
